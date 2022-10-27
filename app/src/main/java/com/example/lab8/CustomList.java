@@ -45,7 +45,11 @@ public class CustomList extends ArrayAdapter<City> {
 
     }
 
-
+    /**
+     * this adds a city object to the list
+     *the second phase, you can add the city
+     * @param city
+     */
 
     /**
      * this gets size of the list
